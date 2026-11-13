@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the associated manuscript."
+type: software
+title: "Feature Topology Alignment Shapes Posterior Geometry in Foundation Models for Multimodal Traffic Risk Prediction"
+version: 0.1.0
+authors:
+  - family-names: Zhang
+    given-names: Zhenduo
+  - family-names: Han
+    given-names: Xiao
+  - family-names: Wu
+    given-names: Yiling
+  - family-names: Zhang
+    given-names: Xinfeng
+  - family-names: Huang
+    given-names: Qingming

@@ -1,0 +1,8 @@
+include main.py CITATION.cff README*.md requirements*.txt
+recursive-include configs *.json
+recursive-include docs *.md *.json
+recursive-include data *.md
+recursive-include results *.md *.csv
+recursive-include tests *.py
+recursive-include .github *.yml
+global-exclude *.py[cod]

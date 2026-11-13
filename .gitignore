@@ -1,0 +1,36 @@
+# Local data and predictions
+/data/local/
+/data/processed/
+/runs/
+/checkpoints/
+SAICD*.csv
+bz.csv
+test_predictions.csv
+split_membership.csv
+*.npz
+*.npy
+*.pickle
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Environments, secrets and build products
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
